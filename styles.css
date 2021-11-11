@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+img {
+    display: inline-flex;
+    max-width: 300 px;
+    max-height: 300px;
+    margin-left: 15%;
+}
